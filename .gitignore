@@ -1,0 +1,14 @@
+# Java & IDE
+*.class
+*.log
+target/
+out/
+bin/
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
