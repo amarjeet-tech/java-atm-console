@@ -6,7 +6,6 @@ class ATM{
     float Balance;
     int PIN = 5674;
 
-
      public  void checkpin(){
          System.out.println("Enter your pin: ");
          Scanner sc = new Scanner(System.in);
