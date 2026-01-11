@@ -1,4 +1,4 @@
-package projectle1;
+package atm_machine_stimulator;
 
 import java.util.Scanner;
 

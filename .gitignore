@@ -12,3 +12,5 @@ bin/
 
 # VS Code
 .vscode/
+
+src/car_stimulator/
